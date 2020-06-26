@@ -1,0 +1,32 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "bumpercars"=.\bumpercars.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {D7053240-CE69-11CD-A777-00DD01143C57}
+    {6EFAC6F0-4252-43C8-8EAC-61F49198D400}
+    {4C599241-6926-101B-9992-00000B65C6F9}
+}}}
+
+###############################################################################
+

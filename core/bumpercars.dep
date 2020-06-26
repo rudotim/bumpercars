@@ -1,0 +1,105 @@
+# Microsoft Developer Studio Generated Dependency File, included by bumpercars.mak
+
+.\bumpercars.cpp : \
+	".\bumpercars.h"\
+	".\bumpercarsDlg.h"\
+	".\car.h"\
+	".\commandbutton.h"\
+	".\functions.h"\
+	".\playcontrol1.h"\
+	".\Track.h"\
+	
+
+.\bumpercars.rc : \
+	".\maps\junkyardthumb.bmp"\
+	".\maps\track256thumb.bmp"\
+	".\res\bumpercars.ico"\
+	".\res\bumpercars.rc2"\
+	".\res\menuback.bmp"\
+	
+
+.\bumpercarsDlg.cpp : \
+	".\bumpercars.h"\
+	".\bumpercarsDlg.h"\
+	".\car.h"\
+	".\choosecar.h"\
+	".\choosetrack.h"\
+	".\commandbutton.h"\
+	".\functions.h"\
+	".\image.h"\
+	".\Multiplayer.h"\
+	".\Options.h"\
+	".\playcontrol1.h"\
+	".\Track.h"\
+	
+
+.\car.cpp : \
+	".\bumpercars.h"\
+	".\car.h"\
+	".\functions.h"\
+	".\Track.h"\
+	
+
+.\choosetrack.cpp : \
+	".\bumpercars.h"\
+	".\car.h"\
+	".\choosetrack.h"\
+	".\image.h"\
+	".\Track.h"\
+	
+
+.\commandbutton.cpp : \
+	".\commandbutton.h"\
+	".\font.h"\
+	".\picture.h"\
+	
+
+.\functions.cpp : \
+	".\bumpercars.h"\
+	".\car.h"\
+	".\functions.h"\
+	".\Track.h"\
+	
+
+.\mainplay.cpp : \
+	".\bumpercars.h"\
+	".\bumpercarsDlg.h"\
+	".\car.h"\
+	".\commandbutton.h"\
+	".\functions.h"\
+	".\Multiplayer.h"\
+	".\playcontrol1.h"\
+	".\Track.h"\
+	
+
+.\Multiplayer.cpp : \
+	".\bumpercars.h"\
+	".\bumpercarsDlg.h"\
+	".\car.h"\
+	".\commandbutton.h"\
+	".\functions.h"\
+	".\Multiplayer.h"\
+	".\playcontrol1.h"\
+	".\Track.h"\
+	
+
+.\Options.cpp : \
+	".\bumpercars.h"\
+	".\car.h"\
+	".\Options.h"\
+	".\Track.h"\
+	
+
+.\playcontrol1.cpp : \
+	".\playcontrol1.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\Track.cpp : \
+	".\bumpercars.h"\
+	".\Track.h"\
+	
